@@ -5,3 +5,6 @@ A work in progress, but so far I have something.
 
 #### Technologies Used
 HTML, CSS, JavaScript
+
+#### Planned frameworks:
+React
